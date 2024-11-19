@@ -1,6 +1,6 @@
 ### Hola 👋
 - 🌱 Actualmente estoy aprendiendo R
-- 🔭 Estoy trabajando com mentor digital
+- 🔭 Estoy trabajando como mentor 4.0
 
 <!--
 **HiginiFernandez/HiginiFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
